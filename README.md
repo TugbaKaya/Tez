@@ -1,0 +1,2 @@
+# Tez
+Tez projesi
